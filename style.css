@@ -21,7 +21,7 @@
 }
 
 body {
-  background-image: url("/assets/bg-light.svg");
+  background-image: url("assets/bg-light.svg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: 0px -200px;
@@ -426,7 +426,7 @@ form input::placeholder{
 }
 
 .enterprise-feature-banner{
-    background-image: url(/assets/banner.svg);
+    background-image: url(assets/banner.svg);
     height: 520px;
     width: 1028px;
     background-repeat: no-repeat;
