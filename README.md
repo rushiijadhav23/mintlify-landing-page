@@ -59,7 +59,8 @@ Additional colors used in the layout: `#E8E8E8` (card borders), `#F8F8F8` (enter
 
 ## Screenshot
 
-<img width="1920" height="1164" alt="mintlify" src="https://github.com/user-attachments/assets/7520cb56-4d29-41a8-856e-238c454c5fcb" />
+<img width="1920" height="1164" alt="mintlify" src="https://github.com/user-attachments/assets/4525c46b-5531-4404-8661-f4c2da910c12" />
+
 
 ---
 
