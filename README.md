@@ -6,8 +6,7 @@ Peer-review assignment for **ChaiCode Cohort 2026** as part of learning HTML & C
 
 ## Live URL
 
-<!-- Add your deployed link here -->
-**Live URL:** _[Add your live URL here]_
+**Live URL:** https://rushiijadhav23.github.io/mintlify-landing-page/
 
 > **Tip:** For the best viewing experience, open the URL in your browser with **zoom set to 100%**.
 
